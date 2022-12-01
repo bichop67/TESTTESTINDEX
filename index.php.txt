@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>A Livestream for Temporis V! - Info - News - DOFUS, the Tactical MMORPG.</title>
+<meta name="description" content="As you know, the fifth edition of the temporary Temporis server is opening soon! Do you want to know more? If so, just tune in to the livestream on Tuesday, March 30 on our Ankama Live Twitch channel." />
+<meta name="keywords" content="clef boradoz- Dofus, le MMORPG stratégique.clef boradoz, clef boradoz,clef boradoz.clef boradoz, clef boradoz, clef boradozclef boradoz, clef boradoz, jackpot clef boradoz- Maj 2.57" />
+<meta name="Identifier-URL" content="www.dofus-boutique.com" />
+<meta name="language" content="fr" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta property="fb:admins" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:title" content="A Livestream for Temporis V! - Info - News - DOFUS, the Tactical MMORPG." />
+<meta property="og:description" content="A Livestream for Temporis V! - Info - News - DOFUS, the Tactical MMORPG." />
+<meta property="og:url" content="index-2.html" />
+<meta property="og:site_name" content="DOFUS" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@DOFUSfr" />
+<meta name="twitter:creator" content="@DOFUSfr" />
+<meta name="revisit-after" content="2 days" />
+<meta name="robots" content="index, follow" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2b951026094467.56355c9ae40e2.png" />
+<meta name="twitter:site" content="@behance" />
+<meta name="twitter:title" content="Bukku - Free HTML/CSS Book/eBook Template" />
+<meta name="twitter:description" content="Bukku is a professional e-book template, it’s fully responsive, looks stunning on any device. It features a very clean and professional design that is perfect for showcasing your work. It's easily customizable to your smallest needs. Bukku comes with a &amp;#8230;" />
+<meta name="twitter:app:id:iphone" content="489667151" />
+<meta name="twitter:app:url:iphone" content="behance://project/26094467" />
+<meta name="twitter:app:name:iphone" content="Behance" />
+<meta name="twitter:creator" content="@lukacvetinovic" />
+<meta property="og:image" content="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2b951026094467.56355c9ae40e2.png" />
+<meta property="og:image:width" content="1400" />
+<meta property="og:image:height" content="8505" />
+	<meta property="fb:app_id" content="542599432471018" />
+	<meta property="og:site_name" content="ThemeHunt" />
+	<meta name="twitter:site" content="@ThemeHunt" />
+	<meta name="twitter:card" content="summary_large_image" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10309676-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10309676-5');
+</script>
+
+  </head>
+  <body class="site com-product view-product layout-live-demo no-task itemid-107 en-gb ltr  ">
+    <div class="body-innerwrapper">
+      <header id="sp-header"><div class="row"><div id="sp-head" class="col-sm-12 col-md-12"><div class="sp-column "><div class="row"><div class="col-4 col-md-4"><a class="toggle-offcanvas d-block d-lg-none" href="#"><span class="ico ico-justify-all"></span></a><a class="logo" href="/"><div><div class="d-none d-md-block"><img src="/templates/default/images/logo.svg" alt="ThemeHunt"></div><div class="d-block d-md-none"><img src="/templates/default/images/logo-only.svg" alt="ThemeHunt"></div></div></a></div><div class="d-none d-md-block col-md-4"><div class="ajax-item-search"><form class="item-search-form" action="/items/latest" method="get"><div class="form-inner"><input type="text" name="search" class="form-control input-product-search" placeholder="Enter Keyword" value="" autocomplete="off"><button type="submit" class="btn btn-search"><span class="ico ico-search"></span></button></div></form><div class="ajax-item-search-results" style="display: none;"></div></div></div><div class="col-8 col-md-4"><ul class="menu-account"><li class="li-link"><a href="/login?return=aHR0cHM6Ly90aGVtZWh1bnQuY29tL2l0ZW0vMTUyNDk5Mi10cmlhbmdsZS1mcmVlLXJlc3BvbnNpdmUtbXVsdGlwdXJwb3NlLXRlbXBsYXRlL2xpdmUtZGVtbw==">Login</a></li><li class="ml-30 li-btn d-none d-md-inline-block"><a href="/login?return=aW5kZXgucGhwP29wdGlvbj1jb21fcHJvZHVjdCZ2aWV3PWZvcm0mbGF5b3V0PWVkaXQmSXRlbWlkPTEwNw==">Upload Your Item</a></li></ul></div></div></div></div></div></header><section id="sp-navbar" class="d-none d-md-block"><div class="row"><div id="sp-navigation" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-megamenu-wrapper"><div class="d-none d-lg-inline-block"><ul class="sp-megamenu-parent menu-fade"><li class="sp-menu-item sp-has-child"><a  href="/"  >HTML</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-right" style="width: 280px;"><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-12"><div class="sp-module "><div class="sp-module-content">
+<ul class="product-categories">
+					<li>
+		<a href="/items/html/corporate-business/latest">
+			Corporate & Business			<span>
+				78			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/landing-pages/latest">
+			Landing Pages			<span>
+				36			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/creative/latest">
+			Creative			<span>
+				36			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/admin-templates/latest">
+			Admin Templates			<span>
+				22			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/ecommerce/latest">
+			eCommerce			<span>
+				20			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/miscellaneous/latest">
+			Miscellaneous			<span>
+				15			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/blog-magazine-news/latest">
+			Blog / Magazine / News			<span>
+				9			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/coming-soon/latest">
+			Coming Soon			<span>
+				4			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/personal/latest">
+			Personal			<span>
+				3			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/wedding/latest">
+			Wedding			<span>
+				2			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/entertainment/latest">
+			Entertainment			<span>
+				1			</span>
+		</a>
+	</li>
+</ul>
+</div></div></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#"  >WordPress</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-right" style="width: 280px;"><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-12"><div class="sp-module "><div class="sp-module-content">
+<ul class="product-categories">
+					<li>
+		<a href="/items/wordpress/blog/latest">
+			Blog			<span>
+				1			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/wordpress/corporate-business/latest">
+			Corporate & Business			<span>
+				1			</span>
+		</a>
+	</li>
+</ul>
+</div></div></div></div></div></div></li></ul></div></div>		<div class="items-filter">
+			<ul>
+				<li>
+					<a class="" href="/items/latest">New</a>
+				</li>
+				<li>
+					<a class="" href="/items/popular">Popular</a>
+				</li>
+				<li>
+					<a class="" href="/items/featured">Featured</a>
+				</li>
+				<li>
+					<a target="_blank" href="https://www.themeum.com/wordpress-themes/?utm_source=themehunt&utm_medium=nav&utm_content=pro">Pro</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="themehunt-stats">
+			<span>
+				Total Items: <span>228</span>
+			</span>
+			<span>
+				Community Users: <span>444337</span>
+			</span>
+		</div>
+		</div></div></div></section><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><script>
+function social_share(url, winWidth, winHeight) {
+	var winTop = (screen.height / 2) - (winHeight / 2);
+	var winLeft = (screen.width / 2) - (winWidth / 2);
+	window.open(url, 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight);
+}
+</script>
+
+
+<div class="item" data-id="1524992" itemscope itemtype="http://schema.org/Product">
+	<div class="container">
+        
+        <h1 class="item-details-title" itemprop="name">
+	Triangle - Free Responsive Creative Template</h1>
+
+<div class="item-details-meta mb-20">
+	<div>
+		<strong>Author:</strong> <a href="/profile/themeum">themeum</a>
+	</div>
+
+	<div>
+					<strong>Updated:</strong> 3 years ago			</div>
+</div>
+
+		<div class="row">
+            <div class="col-lg-8">
+                <div class="single-product-wrap">
+                    <div class="item-thumbnail thumbnail-single">
+                        <img src="/media/com_product/products/thumb/1524992/thumbnail.png" alt="Triangle - Free Responsive Creative Template">
+                        <a target="_blank" href="/item/1524992-triangle-free-responsive-creative-template/preview">
+                            <span class="thumbnail-single-overlay">
+                                <span class="ico ico-eye-outline"></span>
+                            </span>
+                        </a>
+                        <div class="item-badges clearfix">
+                            <span class="item-badge item-badge-free">free</span>
+                            <span class="item-badge item-badge-html">html</span>
+                        </div>
+                    </div>
+
+                    <div class="item-description">
+                        <nav class="nav nav-justified">
+	<a class='nav-link' href="/item/1524992-triangle-free-responsive-creative-template"><span class="ico ico-details"></span> &nbsp;Details</a>
+	<a class='nav-link' href="/item/1524992-triangle-free-responsive-creative-template/comments"><span class="ico ico-comments"></span> &nbsp;Comments (0)</a>
+</nav>
+                        <p>Triangle is responsive HTML template dedicated to all companies, institutions that organize and host meetings or just want to show the creative side of their small business. This amazing template has a great looking design, stunning animations, single and multicolor variations. It suitable for showing any kind of creative offer or services on your website.</p>
+<h3>Triangle Main Features</h3>
+<ul>
+<li>Two unique <strong>Home Variations</strong> with Multi Color and Solid Color to choose from.</li>
+<li><strong>Responsive Design</strong> - all pages are designed and developed to the Bootstrap Framework to display perfectly across all devices and screen sizes. If preferred this can be display easily in template manager.</li>
+<li>Based on <strong>Boostrap 3</strong> framework</li>
+<li>Clean &amp; Creative design</li>
+<li><strong>FontAwesome 4.3</strong> - collection of 510+ scalable vector icons that can instantly be customized</li>
+<li><strong>Ajax Contact Form</strong> - Used a real working message form script.</li>
+<li><strong>Blog Page Layout</strong> - an ideal place for posting and sharing your blogs with all your own images.</li>
+<li><strong>Timeline Layout</strong> - create a graphical representation of a sequence of events, such as the milestones in a project or the main events of a person's life.</li>
+<li><strong>Masonry Layout</strong>&nbsp;- grid layout which was works by placing elements in optimal position based on available vertical space, sort of like a mason fitting stones in a wall. Great also for the blog section.</li>
+<li><strong>Portfolio layouts</strong> - provides you with a flexible portfolio that helps you display your product or photos in the best way. It includes Ajax sorting tabs feature.</li>
+<li><strong>Shortcodes</strong>&nbsp;- big collection of Bootstrap Shortcodes (buttons, features, tabs, accordion, progress bar, Carousel, Google maps, Responsive Vimeo &amp; YouTube video player and much more)</li>
+<li><strong>Coming Soon page</strong> with time counter great for Under construction temporary page.</li>
+<li><strong>About Us</strong>&nbsp;- two ready layouts.</li>
+<li><strong>Contact Us</strong>&nbsp;- two ready layouts.</li>
+<li><strong>Pricing Table</strong>&nbsp;- two variants.</li>
+</ul>
+<p>&nbsp; <img src="http://demo.themeum.com/html/triangle/images/triangle-features.png" alt="Triangle Feature" /></p>                        
+                        <div class="d-flex align-self-center item-social-share">
+                            <div class="mr-2">
+                                <strong>Social Share</strong>
+                            </div>
+                            <div class="mr-2">
+                                <a href="javascript:social_share('https://www.facebook.com/sharer.php?p[url]=https://themehunt.com/item/1524992-triangle-free-responsive-creative-template', 640, 350)" class="social social-facebook"><span class="ico ico-social-facebook"></span></a>
+                            </div>
+                            <div class="mr-2">
+                                <a href="javascript:social_share('https://twitter.com/home?status=https://themehunt.com/item/1524992-triangle-free-responsive-creative-template', 640, 350)" class="social social-twitter"><span class="ico ico-social-twitter"></span></a>
+                            </div>
+                            <div class="mr-2">
+                                <a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://themehunt.com/item/1524992-triangle-free-responsive-creative-template&amp;media=https://themehunt.com//media/com_product/products/thumb/1524992/thumbnail.png&amp;description=Triangle is responsive HTML template dedicated to all companies, institutions that organize and host meetings or just want to show the creative side of..." class="social social-pinterest"><span class="ico ico-social-pinterest mr-0"></span></a>
+                            </div>
+                            <div>
+                                <a href="javascript:social_share('https://plus.google.com/share?url=https://themehunt.com/item/1524992-triangle-free-responsive-creative-template', 640, 450)" class="social social-google-plus"><span class="ico ico-social-google-plus mr-0"></span></a>
+                            </div>
+                        </div>
+					</div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <script>
+jQuery(document).ready(function() {
+	jQuery('#item-quickinfo').theiaStickySidebar({
+		additionalMarginTop: 30
+	});
+});
+</script>
+<div id="item-quickinfo">
+	<div class="item-quickinfo">
+		<div class="item-details-downloads mb-20">
+			<div class="row">
+				<div class="col-6">
+					<span class="ico ico-download-alt"></span> <span class="item-details-downloads-label">Downloads</span>
+				</div>
+				<div class="col-6 text-right">
+					<span class="item-details-download-count">133903</span>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="mb-20">
+			<a class="btn btn-primary btn-lg btn-block btn-download" href="/item/1524992-triangle-free-responsive-creative-template/download"><span class="ico ico-download-alt"></span> Download Free</a>
+		</div>
+
+		
+
+		<div class="row no-gutters mb-20">
+			<div class="col-sm-6">
+				<div class="mr-2">
+					<a target="_blank" class="btn btn-success btn-lg text-left btn-block" href="/item/1524992-triangle-free-responsive-creative-template/preview"><span class="ico ico-eye-outline fw-bold"></span>&nbsp; Live Preview</a>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<form class="form-add-to-favorites ml-2" name="add-to-favorites-1524992" action="/item" method="post">
+					<a class="btn btn-grey action-add-to-favorites btn-lg text-left btn-block" href="#" data-id="1524992" data-count="283">
+						<div class="row no-gutters">
+							<div class="col-6">
+								<span class="ico ico-heart"></span>&nbsp; Favorites
+							</div>
+							<div class="col-6 text-right">
+								<span class="item-favorites-count">283</span>
+							</div>
+						</div>
+					</a>
+					<input type="hidden" name="product" value="1524992">
+					<input type="hidden" name="555eca330fcfa9ba41c7af6f6ba03d86" value="1" />				</form>
+			</div>
+		</div>
+
+		<div class="widget-card item-details-profile mb-20">
+			<div class="media">
+				<div class="item-details-profile-avatar">
+					<a href="/profile/themeum">
+						<img class="avatar " src="/media/com_product/users/2112/avatar.png" alt="themeum">					</a>
+				</div>
+				<div class="media-body">
+					<h4 class="item-details-profile-name">
+						<a href="/profile/themeum">
+							themeum						</a>
+					</h4>
+					<span class="item-details-profile-joined text-muted">Joined 7 years ago</span>
+					<a class="btn btn-warning" href="/profile/themeum">View Profile</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="widget-card mb-20">
+			<div class="widget-card-tile">
+				<span class="ico ico-info-circle ico-color-success"></span> Item Information
+			</div>
+			<div class="widget-card-content">
+									<div class="row">
+						<div class="col-4">
+							<strong>Updated</strong>
+						</div>
+						<div class="col-8">
+							26 September 2017						</div>
+					</div>
+				
+				<div class="row">
+					<div class="col-4">
+						<strong>Released</strong>
+					</div>
+					<div class="col-8">
+						17 April 2015					</div>
+				</div>
+
+									<div class="row">
+						<div class="col-4">
+							<strong>Version</strong>
+						</div>
+						<div class="col-8">
+						1.1						</div>
+					</div>
+				
+									<div class="row">
+						<div class="col-4">
+							<strong>Category</strong>
+						</div>
+						<div class="col-8">
+						<a href="/items/html/corporate-business">Corporate & Business</a>
+						</div>
+					</div>
+				
+									<div class="row">
+						<div class="col-4">
+							<strong>Framework</strong>
+						</div>
+						<div class="col-8">
+							Bootstrap 3.x						</div>
+					</div>
+				
+				<div class="row">
+					<div class="col-4">
+						<strong>Layout</strong>
+					</div>
+					<div class="col-8">
+						Responsive
+					</div>
+				</div>
+
+									<div class="row">
+						<div class="col-4">
+							<strong>Browsers</strong>
+						</div>
+						<div class="col-8">
+							IE11, Firefox, Safari, Chrome, Edge						</div>
+					</div>
+				
+									<div class="row">
+						<div class="col-4">
+							<strong>Tags</strong>
+						</div>
+						<div class="col-8">
+																														<a target="_blank" href="/items/tag/creative/latest">Creative</a>
+																							, 								<a target="_blank" href="/items/tag/personal/latest"> Personal</a>
+																							, 								<a target="_blank" href="/items/tag/portfolio/latest"> Portfolio</a>
+																							, 								<a target="_blank" href="/items/tag/multipurpose/latest"> Multipurpose</a>
+																							, 								<a target="_blank" href="/items/tag/business/latest"> Business</a>
+																							, 								<a target="_blank" href="/items/tag/corporate/latest"> Corporate</a>
+																					</div>
+					</div>
+							</div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+</div></div></div></div></section><section id="sp-bottom"><div class="container"><div class="row"><div id="sp-bottom1" class="col-sm-6 col-md-2"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Connect</h3><div class="sp-module-content"><ul class="menu">
+<li class="item-203 parent"><a href="/blog" >Blog</a></li><li class="item-277"><a href="/contact" >Contact</a></li></ul>
+</div></div></div></div><div id="sp-bottom2" class="col-sm-6 col-md-3"><div class="sp-column "><div class="sp-module _menu"><h3 class="sp-module-title">Support</h3><div class="sp-module-content"><ul class="menu">
+<li class="item-153"><a href="/kb" >Knowledgebase</a></li><li class="item-115"><a href="/submission-guidelines" >Submission Guidelines</a></li><li class="item-117"><a href="/authors-faq" >Authors Faq</a></li><li class="item-112"><a href="/terms-conditions" >Terms &amp; Conditions</a></li></ul>
+</div></div></div></div><div id="sp-bottom3" class="col-sm-6 col-md-3"><div class="sp-column "><div class="sp-module _menu"><h3 class="sp-module-title">Company</h3><div class="sp-module-content"><ul class="menu">
+<li class="item-276"><a href="/about" >About</a></li><li class="item-114"><a href="/copyrights" >Copyrights</a></li><li class="item-128"><a href="/licenses" >Licenses</a></li><li class="item-113"><a href="/privacy-policy" >Privacy Policy</a></li></ul>
+</div></div></div></div><div id="sp-bottom4" class="col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Join Our Newsletter</h3><div class="sp-module-content"><div class="mod_newsletter layout-alt">
+		<p>
+		Want more Bootstrap themes & templates? Subscribe to our mailing list to receive an update when new items arrive!	</p>
+	<div id="mod-newsletter-status-106" style="display: none;"></div>
+	<form id="form-mod-newsletter-106" action="" method="post">
+		<div class="form-row">
+			<div class="form-group mb-3 mb-lg-0 col-lg-8">
+									<input type="text" name="newsletter_email" class="form-control" placeholder="Email Address">
+							</div>
+			<div class="form-group mb-lg-0 col-lg-4">
+				<button type="submit" class="btn btn-primary btn-lg" id="btn-subscribe-106">Subscribe</button>
+			</div>
+		</div>
+	</form>
+</div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-6 col-md-6"><div class="sp-column "><span class="sp-copyright"> © 2012 - 2021 ThemeHunt. Some Rights Reserved.</span></div></div><div id="sp-footer2" class="col-sm-6 col-md-6"><div class="sp-column "><ul class="social-icons float-sm-right"><li><a class="social-facebook" target="_blank" href="https://www.facebook.com/ThemeHuntOfficial"><i class="ico ico-social-facebook fa-fw"></i></a></li><li><a class="social-twitter" target="_blank" href="https://twitter.com/themehunt"><i class="ico ico-social-twitter fa-fw"></i></a></li></ul></div></div></div></div></footer>      <div class="offcanvas-menu d-inline-block d-lg-none">
+        <div class="offcanvas-inner">
+          <div class="sp-module "><h3 class="sp-module-title">Browse Templates</h3><div class="sp-module-content">
+<ul class="product-categories">
+					<li>
+		<a href="/items/html/corporate-business/latest">
+			Corporate & Business			<span>
+				78			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/landing-pages/latest">
+			Landing Pages			<span>
+				36			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/creative/latest">
+			Creative			<span>
+				36			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/admin-templates/latest">
+			Admin Templates			<span>
+				22			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/ecommerce/latest">
+			eCommerce			<span>
+				20			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/miscellaneous/latest">
+			Miscellaneous			<span>
+				15			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/blog-magazine-news/latest">
+			Blog / Magazine / News			<span>
+				9			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/coming-soon/latest">
+			Coming Soon			<span>
+				4			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/personal/latest">
+			Personal			<span>
+				3			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/wedding/latest">
+			Wedding			<span>
+				2			</span>
+		</a>
+	</li>
+				<li>
+		<a href="/items/html/entertainment/latest">
+			Entertainment			<span>
+				1			</span>
+		</a>
+	</li>
+</ul>
+</div></div>
+        </div>
+      </div>
+    </div>
+        
+  <div id="sp-cookie-consent" class="position-bottom"><div><div class="sp-cookie-consent-content">We use cookies to ensure that we give you the best experience on our website. <a target="_blank" href="https://themehunt.com/privacy-policy">Privacy Policy</a></div><div class="sp-cookie-consent-action"><a class="sp-cookie-close sp-cookie-allow" href="#">I accept</a></div></div></div></body>
+  </html>
